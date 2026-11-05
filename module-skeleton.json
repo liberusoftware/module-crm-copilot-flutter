@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-copilot-flutter",
+  "capabilityKey": "liberusoftware/module-crm-copilot",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_copilot_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/crm-copilot.md",
+  "presentationPlan": "projects/crm/flutter/crm-copilot.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
